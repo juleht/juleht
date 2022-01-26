@@ -11,6 +11,6 @@ Power BI:
 - [Tuottavuusanalyysi](https://github.com/juleht/PowerBI-e-Commerce)&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;(Power BI)
 - [Markkina-analyysi](https://github.com/juleht/PowerBi-Market)&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;(Power BI)
 
-Ohelmistotuotanto:
+Ohjelmistotuotanto:
 - [OT-harjoitustyo](https://github.com/juleht/ot-harjoitustyo)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(Java, SQL)
 - [TiKaPe-harjoitustyo](https://github.com/juleht/TiKaPe-harjoitustyo)&emsp;&emsp;&emsp;&emsp;&emsp;(Python, SQL)
