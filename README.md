@@ -12,3 +12,4 @@ Power BI:
 
 Ohelmistotuotanto:
 - [OT-harjoitustyo](https://github.com/juleht/ot-harjoitustyo)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(Java, SQL)
+- [TiKaPe-harjoitustyo](https://github.com/juleht/TiKaPe-harjoitustyo)&emsp;&emsp;&emsp;&emsp;&emsp;(Python, SQL)
