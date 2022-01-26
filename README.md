@@ -5,6 +5,7 @@ Data-analytiikka:
 - [Pörssiosakkeet](https://github.com/juleht/Porssiosakkeet)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;(Python: *Pandas*, *Matplotlib*)
 - [Kansallispuisto](https://github.com/juleht/Kansallispuisto)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;(Python: *Pandas*, *Numpy*, *Matplotlib*)
 - [Kuntosali](https://github.com/juleht/Kuntosali)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;(SQL, Python: *Pandas*, *Matplotlib*)
+- [Twitter-luokittelu](https://github.com/juleht/Twitter-luokittelu)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(Python: *Pandas*, *sklearn*, *Matplotlib*)
 
 Power BI:
 - [Tuottavuusanalyysi](https://github.com/juleht/PowerBI-e-Commerce)&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;(Power BI)
